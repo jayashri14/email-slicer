@@ -27,7 +27,7 @@ public class Email {
        }
        else{
           System.out.println("the email address is not correct");
-       }
+          }
                
     }
     
